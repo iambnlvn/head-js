@@ -32,6 +32,5 @@ bun exec && ./jhead -l 11 -t -p README.md
 ```
 ![js-headexemple](https://github.com/iambnlvn/head-js/assets/97989036/82f3360c-e6ae-47da-8581-547a1b807be7)
 
-#Link
 Built using [type-flag](https://github.com/privatenumber/type-flag).
 
